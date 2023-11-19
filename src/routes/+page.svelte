@@ -3,6 +3,7 @@
 	import welcome_fallback from '$lib/images/svelte-welcome.png';
 	import Nav from '../components/Nav.svelte';
 	import Footer from '../components/Footer.svelte';
+	import Img from '../lib/images/ilustracao.svg';
 </script>
 
 <svelte:head>
@@ -24,9 +25,9 @@
 			</p>
 			<button class="btn">Get Started</button>
 		</div>
-		<div class="image">
-			<img src="#">
-		</div>
+		<!-- <div class="image">
+			<img  class="img" alt="The project logo" src={Img} />
+		</div> -->
 	</header>
 
 	<section class="conteiner">
@@ -80,8 +81,14 @@
 	margin-right: 20px;
 }
 
-img {
-	width: 100%;
+.image {
+	margin: 0;
+	padding: 0;
+	height: 50vh;
+}
+
+.img {
+	width: 300vh;
 	display: flex;
 }
 
@@ -123,6 +130,7 @@ a {
 
 header {
 	position: relative;
+	height: 60vh;
 	padding-top: 2rem;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
@@ -130,6 +138,7 @@ header {
 }
 
 header .content h4 {
+	margin-top: 8rem;
 	margin-bottom: 1rem;
 	color: #ccc;
 	font-size: 1rem;

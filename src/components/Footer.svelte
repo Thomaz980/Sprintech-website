@@ -1,6 +1,10 @@
 <script>
+	import Git from '../lib/images/icons8-github.svg';
+	import Insta from '../lib/images/icons8-insta.svg';
+	import Linkedin from '../lib/images/icons8-linkedin.svg';
     
 </script>
+
 <footer>
     <span class="blur"></span>
     <span class="blur"></span>
@@ -9,13 +13,12 @@
             <img src="#" alt="">
         </div>
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            quibusdam, voluptatum.
+            Desenvolvimento e aplicações web.
         </p>
         <div class="socials">
-            <a href="#"><i class="ri-instagram-line"></i></a>
-            <a href="#"><i class=""></i></a>
-            <a href="#"><i class=""></i></a>
+            <a href="/"><img src={Git}></a>
+            <a href="/"><img src={Insta}></a>
+            <a href="/"><img src={Linkedin}></a>
         </div>
     </div>
     <div class="column">
@@ -51,6 +54,10 @@ footer {
 footer .column .logo {
 	max-width: 100px;
 	margin-bottom: 2rem;
+}
+
+img {
+    width: 30px;
 }
 
 footer .column p {
