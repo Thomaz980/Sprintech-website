@@ -1,6 +1,4 @@
 <script>
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
 	import Nav from '../components/Nav.svelte';
 	import Footer from '../components/Footer.svelte';
 	import Img from '../lib/images/ilustracao.svg';
