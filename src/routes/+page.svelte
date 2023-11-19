@@ -18,7 +18,7 @@
 			<span class="blur"></span>
 			<span class="blur"></span>
 			<h4>CREATE YOUR SITE A PRO</h4>
-			<h1>Hi, I'm <span>Sprintech</span>, Web Developer</h1>
+			<h1><span>Sprintech</span>, Desenvolvimento de Software</h1>
 			<p>
 				Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
 				quibusdam, voluptatum, quos, voluptate quia quae dolorum
