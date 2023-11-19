@@ -75,6 +75,10 @@
 </div>
 
 <style>
+.body {
+	margin-left: 20px;
+	margin-right: 20px;
+}
 
 img {
 	width: 100%;
@@ -87,7 +91,7 @@ a {
 
 .body {
 	font-family: 'Popins', sans-serif;
-	background-color: #181818;
+	background-color: transparent;
 }
 
 
@@ -155,7 +159,7 @@ header .image {
 }
 
 header .image::before {
-	content: "o";
+	content: "";
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -188,6 +192,7 @@ section .header {
 .features .card {
 	background-color: #27272a;
 	padding: 1rem;
+	margin-right: 20px;
 	border: 2px solid transparent;
 	border-radius: 15px;
 	transition: all 0.3s ease;

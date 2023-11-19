@@ -20,21 +20,21 @@
     </div>
     <div class="column">
         <h4>Company</h4>
-        <a href="">Business</a>
-        <a href="">Partnership</a>
-        <a href="">Networking</a>
+        <a href="#">Business</a>
+        <a href="#">Partnership</a>
+        <a href="#">Networking</a>
     </div>
     <div class="column">
         <h4>About Us</h4>
-        <a href="">Business</a>
-        <a href="">Partnership</a>
-        <a href="">Networking</a>
+        <a href="#">Business</a>
+        <a href="#">Partnership</a>
+        <a href="#">Networking</a>
     </div>
     <div class="column">
         <h4>Contect</h4>
-        <a href="">Business</a>
-        <a href="">Partnership</a>
-        <a href="">Networking</a>
+        <a href="#">Business</a>
+        <a href="#">Partnership</a>
+        <a href="#">Networking</a>
     </div>
 </footer>
 
