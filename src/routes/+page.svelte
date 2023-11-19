@@ -30,7 +30,7 @@
 	</header>
 
 	<section class="conteiner">
-		<h2 class="header">FEATURES</h2>
+		<h2 class="header">SERVIÇOS</h2>
 		<div class="features">
 			<div class="card">
 				<span><i class="icon"></i></span>

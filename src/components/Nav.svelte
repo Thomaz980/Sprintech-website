@@ -10,9 +10,9 @@
     </div>
 
     <ul class="nav-links">
-        <li class="link"><a href="#">Home</a></li>
-        <li class="link"><a href="#">Features</a></li>
-        <li class="link"><a href="#">About</a></li>
+        <li class="link"><a href="#">Início</a></li>
+        <li class="link"><a href="#">Serviços</a></li>
+        <li class="link"><a href="#">Sobre</a></li>
     </ul>
 </nav>
 
