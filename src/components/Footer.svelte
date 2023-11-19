@@ -16,9 +16,9 @@
             Desenvolvimento e aplicações web.
         </p>
         <div class="socials">
-            <a href="/"><img src={Git}></a>
-            <a href="/"><img src={Insta}></a>
-            <a href="/"><img src={Linkedin}></a>
+            <a href="#"><img src={Git}></a>
+            <a href="#"><img src={Insta}></a>
+            <a href="#"><img src={Linkedin}></a>
         </div>
     </div>
     <div class="column">
